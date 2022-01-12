@@ -104,6 +104,7 @@ const Education = styled.div`
   flex-direction: column;
   align-items: center;
   color: #E7E3D7;
+  margin: 0px 50px;
   letter-spacing: 2px;
   font-family: 'CGF Locust Resistance', sans-serif;
   border-top: 3px solid;
